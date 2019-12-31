@@ -1,0 +1,1 @@
+DEL /s "%cd%\cache\*.png"

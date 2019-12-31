@@ -1,0 +1,7 @@
+﻿  CrashCatch.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  version.cpp
+  WindowsVersion.cpp
+  正在生成代码...
+  CrashCatch.vcxproj -> D:\mtvffmpeg\htslib\CrashCatch\CrashCatch\..\lib\CrashCatch.lib
